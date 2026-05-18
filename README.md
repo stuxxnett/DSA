@@ -9,6 +9,7 @@ practice questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stuxxnett/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/stuxxnett/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/stuxxnett/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/stuxxnett/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/stuxxnett/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -28,10 +29,12 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/stuxxnett/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/stuxxnett/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
