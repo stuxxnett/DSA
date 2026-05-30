@@ -91,4 +91,8 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/stuxxnett/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/stuxxnett/DSA/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
