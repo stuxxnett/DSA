@@ -26,6 +26,7 @@ practice questions
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/stuxxnett/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/stuxxnett/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/stuxxnett/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/stuxxnett/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/stuxxnett/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +116,8 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stuxxnett/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/stuxxnett/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
