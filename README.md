@@ -8,6 +8,7 @@ practice questions
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/stuxxnett/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/stuxxnett/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stuxxnett/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stuxxnett/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/stuxxnett/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -71,6 +72,7 @@ practice questions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2126-destroying-asteroids](https://github.com/stuxxnett/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/stuxxnett/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -78,6 +80,7 @@ practice questions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stuxxnett/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2540-minimum-common-value](https://github.com/stuxxnett/DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -98,6 +101,7 @@ practice questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/stuxxnett/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/stuxxnett/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Backtracking
