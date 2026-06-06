@@ -19,6 +19,7 @@ practice questions
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/stuxxnett/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/stuxxnett/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/stuxxnett/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/stuxxnett/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/stuxxnett/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/stuxxnett/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Dynamic Programming
@@ -120,4 +121,8 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/stuxxnett/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/stuxxnett/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
