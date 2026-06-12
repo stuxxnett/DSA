@@ -12,6 +12,7 @@ practice questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stuxxnett/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stuxxnett/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/stuxxnett/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0238-product-of-array-except-self](https://github.com/stuxxnett/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/stuxxnett/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -140,5 +141,6 @@ practice questions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/stuxxnett/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/stuxxnett/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
