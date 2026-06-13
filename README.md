@@ -114,6 +114,7 @@ practice questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/stuxxnett/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/stuxxnett/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/stuxxnett/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -143,4 +144,8 @@ practice questions
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/stuxxnett/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/stuxxnett/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/stuxxnett/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
