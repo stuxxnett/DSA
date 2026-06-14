@@ -112,6 +112,7 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stuxxnett/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stuxxnett/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/stuxxnett/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/stuxxnett/DSA/tree/main/2540-minimum-common-value/) | Easy |
 ## String
@@ -151,4 +152,9 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/stuxxnett/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stuxxnett/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stuxxnett/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
