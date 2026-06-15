@@ -46,6 +46,7 @@ practice questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/stuxxnett/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/stuxxnett/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/stuxxnett/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/stuxxnett/DSA/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/stuxxnett/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -71,6 +72,7 @@ practice questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/stuxxnett/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/stuxxnett/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/stuxxnett/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/stuxxnett/DSA/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/stuxxnett/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -157,4 +159,8 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stuxxnett/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/stuxxnett/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
