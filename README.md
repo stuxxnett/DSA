@@ -17,6 +17,7 @@ practice questions
 | [0746-min-cost-climbing-stairs](https://github.com/stuxxnett/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1732-find-the-highest-altitude](https://github.com/stuxxnett/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/stuxxnett/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2126-destroying-asteroids](https://github.com/stuxxnett/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/stuxxnett/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -150,6 +151,7 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/stuxxnett/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/stuxxnett/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/stuxxnett/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
