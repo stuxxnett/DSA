@@ -103,6 +103,7 @@ practice questions
 | [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stuxxnett/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/stuxxnett/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/stuxxnett/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/stuxxnett/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/stuxxnett/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -130,6 +131,7 @@ practice questions
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/stuxxnett/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/stuxxnett/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/stuxxnett/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/stuxxnett/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Backtracking
@@ -176,5 +178,6 @@ practice questions
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/stuxxnett/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/stuxxnett/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
