@@ -50,6 +50,7 @@ practice questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/stuxxnett/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/stuxxnett/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/stuxxnett/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/stuxxnett/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/stuxxnett/DSA/tree/main/1609-even-odd-tree/) | Medium |
@@ -60,6 +61,7 @@ practice questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/stuxxnett/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/stuxxnett/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/stuxxnett/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
@@ -76,6 +78,7 @@ practice questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/stuxxnett/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/stuxxnett/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/stuxxnett/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/stuxxnett/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/stuxxnett/DSA/tree/main/1609-even-odd-tree/) | Medium |
@@ -180,4 +183,12 @@ practice questions
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/stuxxnett/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/stuxxnett/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/stuxxnett/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/stuxxnett/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
