@@ -65,6 +65,7 @@ practice questions
 | [0572-subtree-of-another-tree](https://github.com/stuxxnett/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/stuxxnett/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ practice questions
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1609-even-odd-tree](https://github.com/stuxxnett/DSA/tree/main/1609-even-odd-tree/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/stuxxnett/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,4 +213,12 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuxxnett/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/stuxxnett/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/stuxxnett/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->
