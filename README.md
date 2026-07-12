@@ -17,6 +17,7 @@ practice questions
 | [0300-longest-increasing-subsequence](https://github.com/stuxxnett/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/stuxxnett/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/stuxxnett/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/stuxxnett/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/stuxxnett/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -98,6 +99,7 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/stuxxnett/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/stuxxnett/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/stuxxnett/DSA/tree/main/2126-destroying-asteroids/) | Medium |
@@ -110,6 +112,7 @@ practice questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stuxxnett/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/stuxxnett/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/stuxxnett/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuxxnett/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/stuxxnett/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/stuxxnett/DSA/tree/main/2540-minimum-common-value/) | Easy |
