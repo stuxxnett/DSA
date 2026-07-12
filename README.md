@@ -142,6 +142,7 @@ practice questions
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/stuxxnett/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0784-letter-case-permutation](https://github.com/stuxxnett/DSA/tree/main/0784-letter-case-permutation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/stuxxnett/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuxxnett/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/stuxxnett/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -150,6 +151,7 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/stuxxnett/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0784-letter-case-permutation](https://github.com/stuxxnett/DSA/tree/main/0784-letter-case-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,4 +226,8 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/stuxxnett/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0784-letter-case-permutation](https://github.com/stuxxnett/DSA/tree/main/0784-letter-case-permutation/) | Medium |
 <!---LeetCode Topics End-->
