@@ -17,6 +17,7 @@ practice questions
 | [0300-longest-increasing-subsequence](https://github.com/stuxxnett/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/stuxxnett/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/stuxxnett/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0860-lemonade-change](https://github.com/stuxxnett/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/stuxxnett/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -92,6 +93,7 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/stuxxnett/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/stuxxnett/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/stuxxnett/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/stuxxnett/DSA/tree/main/2126-destroying-asteroids/) | Medium |
