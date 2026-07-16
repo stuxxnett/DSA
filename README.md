@@ -35,6 +35,7 @@ practice questions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/stuxxnett/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/stuxxnett/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/stuxxnett/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuxxnett/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ practice questions
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/stuxxnett/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/stuxxnett/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuxxnett/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ practice questions
 | [2126-destroying-asteroids](https://github.com/stuxxnett/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/stuxxnett/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/stuxxnett/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuxxnett/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +146,7 @@ practice questions
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stuxxnett/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/stuxxnett/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/stuxxnett/DSA/tree/main/2540-minimum-common-value/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuxxnett/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +169,7 @@ practice questions
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuxxnett/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/stuxxnett/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/stuxxnett/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuxxnett/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,4 +247,5 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuxxnett/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuxxnett/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
