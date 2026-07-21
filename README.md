@@ -8,6 +8,7 @@ practice questions
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/stuxxnett/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/stuxxnett/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0045-jump-game-ii](https://github.com/stuxxnett/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stuxxnett/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stuxxnett/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -41,6 +42,7 @@ practice questions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/stuxxnett/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/stuxxnett/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/stuxxnett/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/stuxxnett/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -99,6 +101,7 @@ practice questions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/stuxxnett/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/stuxxnett/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/stuxxnett/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
