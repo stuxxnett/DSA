@@ -19,6 +19,7 @@ practice questions
 | [0455-assign-cookies](https://github.com/stuxxnett/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/stuxxnett/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/stuxxnett/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [1260-shift-2d-grid](https://github.com/stuxxnett/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/stuxxnett/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -47,6 +48,7 @@ practice questions
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/stuxxnett/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/stuxxnett/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/stuxxnett/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuxxnett/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -255,4 +257,5 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/stuxxnett/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [1260-shift-2d-grid](https://github.com/stuxxnett/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
