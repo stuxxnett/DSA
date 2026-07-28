@@ -18,6 +18,7 @@ practice questions
 | [0300-longest-increasing-subsequence](https://github.com/stuxxnett/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/stuxxnett/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0455-assign-cookies](https://github.com/stuxxnett/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/stuxxnett/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/stuxxnett/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/stuxxnett/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1260-shift-2d-grid](https://github.com/stuxxnett/DSA/tree/main/1260-shift-2d-grid/) | Easy |
@@ -114,6 +115,7 @@ practice questions
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0455-assign-cookies](https://github.com/stuxxnett/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/stuxxnett/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/stuxxnett/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/stuxxnett/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -174,6 +176,7 @@ practice questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/stuxxnett/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/stuxxnett/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/stuxxnett/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuxxnett/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
