@@ -24,6 +24,7 @@ practice questions
 | [1260-shift-2d-grid](https://github.com/stuxxnett/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/stuxxnett/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stuxxnett/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/stuxxnett/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/stuxxnett/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -117,6 +118,7 @@ practice questions
 | [0455-assign-cookies](https://github.com/stuxxnett/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/stuxxnett/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/stuxxnett/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stuxxnett/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/stuxxnett/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/stuxxnett/DSA/tree/main/2126-destroying-asteroids/) | Medium |
@@ -266,4 +268,8 @@ practice questions
 | ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/stuxxnett/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [1260-shift-2d-grid](https://github.com/stuxxnett/DSA/tree/main/1260-shift-2d-grid/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stuxxnett/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
