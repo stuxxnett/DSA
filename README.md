@@ -48,6 +48,7 @@ practice questions
 | [0045-jump-game-ii](https://github.com/stuxxnett/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/stuxxnett/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/stuxxnett/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/stuxxnett/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/stuxxnett/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/stuxxnett/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Simulation
@@ -106,6 +107,7 @@ practice questions
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/stuxxnett/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/stuxxnett/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/stuxxnett/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/stuxxnett/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/stuxxnett/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/stuxxnett/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -169,6 +171,7 @@ practice questions
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/stuxxnett/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/stuxxnett/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/stuxxnett/DSA/tree/main/0784-letter-case-permutation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/stuxxnett/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuxxnett/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -218,6 +221,7 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/stuxxnett/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/stuxxnett/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stuxxnett/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -280,4 +284,8 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stuxxnett/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/stuxxnett/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
