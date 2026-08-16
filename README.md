@@ -203,6 +203,7 @@ practice questions
 | [0175-combine-two-tables](https://github.com/stuxxnett/DSA/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/stuxxnett/DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/stuxxnett/DSA/tree/main/0584-find-customer-referee/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/stuxxnett/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
