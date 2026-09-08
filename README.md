@@ -209,6 +209,7 @@ practice questions
 | [1148-article-views-i](https://github.com/stuxxnett/DSA/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/stuxxnett/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/stuxxnett/DSA/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/stuxxnett/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
