@@ -198,6 +198,7 @@ practice questions
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/stuxxnett/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/stuxxnett/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuxxnett/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3870-count-commas-in-range](https://github.com/stuxxnett/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
