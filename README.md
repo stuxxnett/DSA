@@ -136,6 +136,7 @@ practice questions
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/stuxxnett/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stuxxnett/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0141-linked-list-cycle](https://github.com/stuxxnett/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/stuxxnett/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/stuxxnett/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -160,6 +161,7 @@ practice questions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/stuxxnett/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stuxxnett/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0455-assign-cookies](https://github.com/stuxxnett/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/stuxxnett/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -241,6 +243,7 @@ practice questions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/stuxxnett/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/stuxxnett/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/stuxxnett/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stuxxnett/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -305,4 +308,8 @@ practice questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/stuxxnett/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/stuxxnett/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
