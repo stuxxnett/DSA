@@ -68,6 +68,7 @@ practice questions
 | [0199-binary-tree-right-side-view](https://github.com/stuxxnett/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/stuxxnett/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/stuxxnett/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/stuxxnett/DSA/tree/main/1609-even-odd-tree/) | Medium |
@@ -80,6 +81,7 @@ practice questions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/stuxxnett/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/stuxxnett/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/stuxxnett/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -90,6 +92,7 @@ practice questions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/stuxxnett/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/stuxxnett/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/stuxxnett/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1609-even-odd-tree](https://github.com/stuxxnett/DSA/tree/main/1609-even-odd-tree/) | Medium |
@@ -104,6 +107,7 @@ practice questions
 | [0199-binary-tree-right-side-view](https://github.com/stuxxnett/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/stuxxnett/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/stuxxnett/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/stuxxnett/DSA/tree/main/1609-even-odd-tree/) | Medium |
