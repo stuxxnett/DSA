@@ -38,9 +38,7 @@ class Solution {
                 if(curr.right != null){
                     q.offer(curr.right);
                 }
-                if(i==size-1){
-                    curr.next = null;
-                }else{
+                if(i!=size-1){
                     curr.next = q.peek();
                 }
             }
