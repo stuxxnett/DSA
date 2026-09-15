@@ -73,6 +73,7 @@ practice questions
 | [0637-average-of-levels-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/stuxxnett/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/stuxxnett/DSA/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/stuxxnett/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
@@ -86,6 +87,7 @@ practice questions
 | [0572-subtree-of-another-tree](https://github.com/stuxxnett/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/stuxxnett/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -99,6 +101,7 @@ practice questions
 | [0417-pacific-atlantic-water-flow](https://github.com/stuxxnett/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/stuxxnett/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1609-even-odd-tree](https://github.com/stuxxnett/DSA/tree/main/1609-even-odd-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/stuxxnett/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -117,6 +120,7 @@ practice questions
 | [0637-average-of-levels-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/stuxxnett/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/stuxxnett/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/stuxxnett/DSA/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/stuxxnett/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Greedy
